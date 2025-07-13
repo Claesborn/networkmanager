@@ -1,0 +1,9 @@
+# xmake build directory
+build/
+.xmake/
+.vscode/
+*.o
+*.obj
+*.exe
+*.out
+*.log
