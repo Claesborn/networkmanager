@@ -3,7 +3,7 @@
 ## NetworkManager
 
 A minimal, configurable client-server communication tool written in C++. Supports both TCP and UDP protocols. Built for local or network-based messaging, with customizable ports, logging, and runtime control. Building it for fun in order to learn and perhaps use at home.
-Note: This is a work in progress!
+- Note: This is a work in progress!
 
 ---
 
