@@ -14,6 +14,8 @@ A minimal, configurable client-server communication tool written in C++. Support
 - Unit testing
 - Config file (JSON/toml/yaml) support
 - Interactive terminal interface
+- epoll
+- Threadpool
 
 ## Features
 
